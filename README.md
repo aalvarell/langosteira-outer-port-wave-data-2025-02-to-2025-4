@@ -1,4 +1,4 @@
-[TO ADD DOI]: #
+[![DOI](https://zenodo.org/badge/776742075.svg)](https://doi.org/10.5281/zenodo.10866126)
 
 # Langosteira Outer Port Wave Agitation Data Repository
 
